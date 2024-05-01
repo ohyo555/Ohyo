@@ -1,6 +1,6 @@
 # Ohyo
 
-<h1 align="center"> 👋 Hello, Heechan Github 👋 </h3>
+<h1 align="center"> 👋 Hello, Hyoju Github 👋 </h3>
 
 <br/>
 
