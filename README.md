@@ -1,4 +1,3 @@
-# Ohyo
 
 <h1 align="center"> 👋 Hello, Hyoju Github 👋 </h3>
 
@@ -80,7 +79,7 @@
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/dbeaver-2C2C32.svg?style=for-the-badge&logo=dbeaver&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
 
 </div>
   
@@ -91,10 +90,10 @@
 <br/>
 
   <div align="center">
-  <a href="mailto:gmlcks0905@gmail.com">
+  <a href="mailto:555gywn@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
 </a>
-  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4">
+  <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion">
 </a>
 
