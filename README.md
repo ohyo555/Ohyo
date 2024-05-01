@@ -56,10 +56,7 @@
 <br />
 
 <div align="center">
-<h4> Object Detection <h4>
-<h4> MLops <h4>
-<h4> DeepFake <h4>
-<h4> C++ <h4>
+<h4>  <h4>
 
 <br /><br />
 
