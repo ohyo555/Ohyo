@@ -21,10 +21,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <!-- Java -->
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/> <!-- Javascript -->
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/> <!-- 파이썬 -->
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <!-- Javascript -->
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=Python&logoColor=white"/> <!-- 파이썬 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!-- mysql -->
-  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/> <!-- R -->
+  <img src="https://img.shields.io/badge/R-007AFF?style=flat-square&logo=R&logoColor=white"/> <!-- R -->
 </div>
 
 <br /><br />
@@ -34,10 +34,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=Seaborn&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Seaborn-3670A0?style=flat-square&logo=Seaborn&logoColor=ffdd54" />&nbsp
 </div>
 
 <br/>
@@ -45,17 +45,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=flat-square&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/keras-c14438.svg?style=flat-square&logo=keras&logoColor=white" />&nbsp
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=for-the-badge&logo=Ultralytics&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-20232a.svg?style=flat-square&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=flat-square&logo=streamlit&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=flat-square&logo=Ultralytics&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=flat-square&logo=MLops&logoColor=white" />&nbsp
 </div>
 
 <br /><br />
@@ -77,12 +77,12 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=flat-square&logo=intellijidea&logoColor=white" />&nbsp
 
 </div>
   
@@ -94,10 +94,10 @@
 
   <div align="center">
   <a href="mailto:555gywn@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion">
+  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black" alt="Notion">
   </a>
   <a href="https://velog.io/@ohyo555/posts" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
