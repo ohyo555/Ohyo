@@ -6,13 +6,13 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=sinheechan)
+![](https://komarev.com/ghpvc/?username=ohyo555)
 
 </div>
 
 <br/>
 
-<h2 align="center"> ✨  Preparing to Become an AI Engineer  ✨</h2>
+<h2 align="center"> ✨  Preparing to Become an 개발자  ✨</h2>
 
 <br/><br/>
 
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </div>
 
 <br /><br />
