@@ -1,5 +1,7 @@
 
-<h1 align="center"> 👋 Hello, Hyoju Github 👋 </h3>
+<div align="center">
+  <img src="https://github.com/ohyo555/Ohyo555/assets/153146836/d09d02a6-6e6b-413f-b942-5309874395de" />
+</div>
 
 <br/>
 
@@ -11,7 +13,7 @@
 
 <br/>
 
-<h2 align="center"> ✨  Preparing to Become an 개발자  ✨</h2>
+<h2 align="center"> ✨  Preparing to Become an IT Developer  ✨</h2>
 
 <br/><br/>
 
@@ -20,13 +22,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <!-- Java -->
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <!-- Javascript -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <!-- html5 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- css3 -->
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=Python&logoColor=white"/> <!-- Python -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!-- Mysql -->
-  <img src="https://img.shields.io/badge/R-007AFF?style=flat-square&logo=R&logoColor=white"/> <!-- R -->
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>&nbsp  <!-- Java -->
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp <!-- Javascript -->
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat&logo=Python&logoColor=white"/>&nbsp  <!-- Python -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp  <!-- Mysql -->
+  <img src="https://img.shields.io/badge/R-007AFF?style=flat&logo=R&logoColor=white"/>&nbsp  <!-- R -->
+  <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>&nbsp  <!-- C# -->
 </div>
 
 <br /><br />
@@ -36,17 +37,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp <!-- jQuery -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>&nbsp <!-- Selenium -->
-</div>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp  <!-- html -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp <!-- css -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp <!-- Spring -->
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>&nbsp <!-- React -->
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp <!-- jQuery -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>&nbsp <!-- Selenium -->
 <br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp <!-- pandas -->
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp <!-- numpy -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Seaborn-3670A0?style=flat-square&logo=Seaborn&logoColor=ffdd54" />&nbsp <!-- Seaborn -->
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white" />&nbsp <!-- pandas -->
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat&logo=numpy&logoColor=white" />&nbsp <!-- numpy -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logo=Matplotlib&logoColor=white" />&nbsp <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Seaborn-3670A0?style=flat&logo=Seaborn&logoColor=ffdd54" />&nbsp <!-- Seaborn -->
 </div>
 
 <br /><br />
@@ -65,12 +66,13 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=flat-square&logo=github&logoColor=white" />&nbsp <!-- Github -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp <!-- Git -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp <!-- Spring -->
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" />&nbsp <!-- visual-studio-code -->
-  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=flat-square&logo=intellijidea&logoColor=white" />&nbsp <!-- intellijidea -->
-
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=flat&logo=github&logoColor=white" />&nbsp <!-- Github -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp <!-- Git -->
+  <img src="https://img.shields.io/badge/figma-1b024f?style=flat&logo=figma&logoColor=white"/>&nbsp <!-- Figma -->
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />&nbsp <!-- visual-studio-code -->
+  <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=flat&logo=eclipseide&logoColor=white" />&nbsp <!-- Eclipse -->
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=flat&logo=intellijidea&logoColor=white" />&nbsp <!-- intellijidea -->
+  
 </div>
   
 <br /><br />
@@ -81,15 +83,14 @@
 
   <div align="center">
   <a href="mailto:555gywn@gmail.com" target="_blank"> <!-- Gmail -->
-  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"> </a>
+  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"> </a>
   <a href="" target="_blank"> <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black" alt="Notion"> </a>
+  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat&logo=Notion&logoColor=black" alt="Notion"> </a>
 <a href="https://velog.io/@ohyo555/posts" target="_blank"> <!-- Velog -->
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog Logo">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog Logo">
 </a>
-
 <a href="https://ohyohyo.tistory.com" target="_blank"> <!-- Tistory -->
-  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Logo">
+  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory Logo">
 </a>
   
 
@@ -114,6 +115,7 @@
 
 <br /><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyo555&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyo555&layout=compact&theme=apprentice)
+
 
 <!--[![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyo555&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)-->
