@@ -114,6 +114,6 @@
 
 <br /><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyo555&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyo555&layout=compact&theme=onedark)
 
-<!-- [![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan) -->
+<!--[![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyo555&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)-->
