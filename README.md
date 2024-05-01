@@ -20,10 +20,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <!-- Java -->
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/> <!-- Javascript -->
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/> <!-- 파이썬 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!-- mysql -->
+  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/> <!-- R -->
 </div>
 
 <br /><br />
@@ -42,8 +43,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/tensorflow-E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
 </div>
@@ -77,6 +78,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
@@ -91,11 +94,16 @@
 
   <div align="center">
   <a href="mailto:555gywn@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-</a>
+  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
   <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion">
-</a>
+  </a>
+  <a href="https://velog.io/@ohyo555/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+<!--   벨로그, 티스토리 -->
+<!--   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> -->
+  
 
 <br /><br />
 
