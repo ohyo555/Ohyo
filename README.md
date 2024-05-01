@@ -113,26 +113,10 @@
 
 <br/>
 
-  MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 모델 비교분석
-  
-  DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
-  
-  YOLOv8을 활용한 이미지 및 동영상 처리
-  
-  YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포
-  
-  Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축
-  
-  Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축
-  
-  Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현
-  
-  MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현
-
-  Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 
-
-  Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습
+  내용
 
 <br /><br />
 
-[![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyo555&layout=compact)
+
+<!-- [![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan) -->
