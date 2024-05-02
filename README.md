@@ -8,10 +8,6 @@
   <img src="https://github.com/ohyo555/Ohyo555/assets/153146836/d09d02a6-6e6b-413f-b942-5309874395de" />
 </div>
 
-<!-- <h2 align="center">✨ Preparing to Become an IT Developer ✨</h2> -->
-
-<br/><br/><br/>
-
 <h3>🖥️ Programming Languages</h3>
 <hr>
 <div>
