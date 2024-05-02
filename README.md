@@ -68,13 +68,13 @@
 <hr>
 <div >
   <a href="mailto:555gywn@gmail.com" target="_blank"> <!-- Gmail -->
-  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+  <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
   <a href="" target="_blank"> <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat&logo=Notion&logoColor=black" alt="Notion"></a>
+  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
   <a href="https://velog.io/@ohyo555/posts" target="_blank"> <!-- Velog -->
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog Logo"></a>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog Logo"></a>&nbsp
   <a href="https://ohyohyo.tistory.com" target="_blank"> <!-- Tistory -->
-  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory Logo"></a>
+  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory Logo"></a>&nbsp
 </div>
 
 <br /><br /><br />
