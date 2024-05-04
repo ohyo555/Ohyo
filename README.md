@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat&logo=Python&logoColor=white"/>&nbsp  <!-- Python -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp  <!-- Mysql -->
   <img src="https://img.shields.io/badge/R-007AFF?style=flat&logo=R&logoColor=white"/>&nbsp  <!-- R -->
-  <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>&nbsp  <!-- C# -->
+  <!--<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>&nbsp-->  <!-- C# -->
 
   <div align="right">
   
@@ -66,7 +66,7 @@
 <div >
   <a href="mailto:555gywn@gmail.com" target="_blank"> <!-- Gmail -->
   <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
-  <a href="https://www.notion.so/f25cc55d0164465c8be5453e94727ec9" target="_blank"> <!-- Notion -->
+  <a href="https://" target="_blank"> <!-- Notion https://www.notion.so/f25cc55d0164465c8be5453e94727ec9-->
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
 </div>
 
