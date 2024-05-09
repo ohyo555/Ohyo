@@ -15,8 +15,10 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp <!-- Javascript -->
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat&logo=Python&logoColor=white"/>&nbsp  <!-- Python -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp  <!-- Mysql -->
+   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
+<!-- ORACLE -->
   <img src="https://img.shields.io/badge/R-007AFF?style=flat&logo=R&logoColor=white"/>&nbsp  <!-- R -->
-  <!--<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>&nbsp-->  <!-- C# -->
+<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>&nbsp  <!-- C# -->
 
   <div align="right">
   
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp <!-- Spring -->
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>&nbsp <!-- React -->
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp <!-- jQuery -->
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/> <!-- Tailwind -->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>&nbsp <!-- Selenium -->
 <br/>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white" />&nbsp <!-- pandas -->
@@ -56,6 +59,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />&nbsp <!-- visual-studio-code -->
   <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=flat&logo=eclipseide&logoColor=white" />&nbsp <!-- Eclipse -->
   <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=flat&logo=intellijidea&logoColor=white" />&nbsp <!-- intellijidea -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <!-- Postman -->
   
 </div>
   
