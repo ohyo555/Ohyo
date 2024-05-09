@@ -100,15 +100,17 @@
 <ul>
   <li>개인
     <ul>
-      <li><a href="https://github.com/ohyo555/my_project_03">배구 커뮤니티 사이트</a></li>
-      <li><a href="https://github.com/ohyo555/todoapp_2024_04">Todo App</a></li>
-      <li><a href="https://github.com/ohyo555/batch_ex_24_04">쇼핑몰 사이트_Batch</a></li>
-      <li><a href="https://github.com/ohyo555/polynomial_clac_23_12">다항식 계산기</a></li>
-      <li><a href="https://github.com/ohyo555/chat_app_24_04">채팅 메신저</a></li>
-      <li><a href="https://github.com/ohyo555/23_12_AM">기본 회원+게시글</a></li>
-      <li><a href="https://github.com/ohyo555/JSP_AM_2024_01">JSP 활용 회원+게시글 페이지</a></li>
-      <li><a href="https://github.com/ohyo555/24_01_JDBC_AM">JDBC 활용 회원+게시글 페이지</a></li>
       <li><a href="https://github.com/ohyo555/wise_saying_12">명언 CRUD</a></li>
+      <li><a href="https://github.com/ohyo555/polynomial_clac_23_12">다항식 계산기</a></li>
+      <li><a href="https://github.com/ohyo555/23_12_AM">기본 회원+게시글</a></li>
+      <li><a href="https://github.com/ohyo555/24_01_JDBC_AM">JDBC 활용 회원+게시글 페이지</a></li>
+      <li><a href="https://github.com/ohyo555/JSP_AM_2024_01">JSP 활용 회원+게시글 페이지</a></li>
+      <li><a href="https://github.com/ohyo555/Spring_AM">Spring 활용 회원+게시글 페이지</a></li>
+      <li><a href="https://github.com/ohyo555/todoapp_2024_04">Todo App</a></li>
+      <li><a href="https://github.com/ohyo555/chat_app_24_04">채팅 메신저</a></li>
+      <li><a href="https://github.com/ohyo555/batch_ex_24_04">쇼핑몰 사이트_Batch</a></li>
+      <li><a href="https://github.com/ohyo555/acc_app_2024_04">쇼핑몰 사이트_Batch</a></li>
+      <li><a href="https://github.com/ohyo555/my_project_03">배구 커뮤니티 사이트</a></li>
     </ul>
   <li>팀
     <ul>
