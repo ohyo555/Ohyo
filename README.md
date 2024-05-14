@@ -114,7 +114,7 @@
       <li><a href="https://github.com/ohyo555/todoapp_2024_04">Todo App</a></li>
       <li><a href="https://github.com/ohyo555/chat_app_24_04">채팅 메신저</a></li>
       <li><a href="https://github.com/ohyo555/batch_ex_24_04">쇼핑몰 사이트_Batch</a></li>
-      <li><a href="https://github.com/ohyo555/acc_app_2024_04">쇼핑몰 사이트_Batch</a></li>
+      <li><a href="https://github.com/ohyo555/acc_app_2024_04">음원 사이트(판매, 정산, 구매)</a></li>
       <li><a href="https://github.com/ohyo555/my_project_03">배구 커뮤니티 사이트</a></li>
     </ul>
   <li>팀
