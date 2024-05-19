@@ -116,6 +116,7 @@
       <li><a href="https://github.com/ohyo555/batch_ex_24_04">쇼핑몰 사이트_Batch</a></li>
       <li><a href="https://github.com/ohyo555/acc_app_2024_04">음원 사이트(판매, 정산, 구매)</a></li>
       <li><a href="https://github.com/ohyo555/my_project_03">배구 커뮤니티 사이트</a></li>
+      <li><a href="https://github.com/ohyo555/spot_2024_05">Q&A, 관광지와 날씨정보</a></li>
     </ul>
   <li>팀
     <ul>
