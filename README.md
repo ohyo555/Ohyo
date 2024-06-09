@@ -71,7 +71,7 @@
 <div >
   <a href="mailto:555gywn@gmail.com" target="_blank"> <!-- Gmail -->
   <img src="https://img.shields.io/badge/555gywn%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
-  <a href="https://" target="_blank"> <!-- Notion https://www.notion.so/f25cc55d0164465c8be5453e94727ec9-->
+  <a href="https://www.notion.so/f25cc55d0164465c8be5453e94727ec9" target="_blank"> <!-- Notion https://www.notion.so/f25cc55d0164465c8be5453e94727ec9-->
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
 </div>
 
